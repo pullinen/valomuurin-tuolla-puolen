@@ -4,9 +4,9 @@ Elokuu 2121
 
 Ihmiskunta on jättänyt Äitimaan taakseen ja aloittanut levittäytymisen kohti Linnunradan reunoja. Yliplanetaarisen liittouman lipun alle on viimeisen kahden vuosikymmenen aikana perustettu jo toista kymmentä siirtokuntaa, joilla tavoitellaan tieteellistä tietoa, arvokkaita resursseja sekä turvaa planeetanlaajuisilta kriiseiltä.
 
-Yksi tällainen siirtokunta on TRAPPIST-1f:lle perustettu kaivoskaupunki Orval. Alunperin tarkoituksena oli louhia planeetalta harvinaisia maametalleja, mutta kun maankuoresta paljastui huomattava määrä tritiumia, siirtokunnan arvo nousi liittouman silmissä huomattavasti. Vaikka kaivoistoiminta alkoi vasta kahdeksan vuotta sitten, on Orvalista tullut Linnunradan merkittävin tritiumin lähde.
+Yksi tällainen siirtokunta on TRAPPIST-1f:lle perustettu kaivoskaupunki Orval. Alunperin tarkoituksena oli louhia planeetalta harvinaisia maametalleja, mutta kun planeetalta löytyi huomattava tritiumesiintymä, siirtokunnan arvo nousi liittouman silmissä merkittävästi. Vaikka kaivoistoiminta alkoi vasta kahdeksan vuotta sitten, on Orvalista tullut Linnunradan merkittävin tritiumin lähde.
 
-Kaksi viikkoa sitten viestit Orvalista lakkasivat yllättäen. Liittouma reagoi asiaan nopeasti perustamalla ensimmäisen sotilaallisen organisaationsa, ja vastaperustetun avaruusjalkaväen Karhukaisina tunnettu joukkue onkin lähdössä jo syyskuun alussa Orvaliin hoitamaan "rutiininomaisia korjaustehtäviä"....
+Kaksi viikkoa sitten viestit Orvalista lakkasivat yllättäen. Liittouma reagoi asiaan nopeasti perustamalla ensimmäisen sotilaallisen organisaationsa, ja vastaperustetun /avaruusjalkaväen Karhukaisina/ tunnettu joukkue onkin lähdössä jo syyskuun alussa Orvaliin hoitamaan "rutiininomaisia korjaustehtäviä"....
 
 ## Tehtävä
 
@@ -17,11 +17,11 @@ Karhukaisjoukkue Alfan tehtävä on:
 
 ## Orval
 
-TRAPPIST-1f on vuorovesilukittu planeetta. Avaruusasema ja sitä ympäröivä kaupunki sijaitsevat lähellä terminaattoria sen valoisalla puolella, mutta osa pienistä  kaivoskylistä on pimeällä puolella. Maantamisesta huolimatta lämpötila Orvalissa on melko matala, yleensä nollan ja 10 asteen välillä. Planeetan pimeällä puolella on kylmempää, lähes aina pakkasta.
+TRAPPIST-1f on vuorovesilukkiutunut planeetta, joka kiertää punaista kääpiötä TRAPPIST-1. Avaruusasema ja sitä ympäröivä kaupunki sijaitsevat lähellä terminaattoria sen valoisalla puolella, mutta osa varsinaisista kaivoskylistä on pimeällä puolella. Planeetalla on melko paljon vettä, mutta suurin osa siitä on kaasua. Maantamisesta huolimatta lämpötila Orvalissa on melko matala, yleensä nollan ja 10 asteen välillä. Planeetan pimeällä puolella on kylmempää, lähes aina pakkasta.
 
 Siirtokunnassa asuu noin 100 000 ihmistä, joista suurin osa kaupungissa. Kaivoskyliä on kymmenkunta, ja kunkin yhdeydessä asuu pari tuhatta ihmistä. Välimatkat kaupungin ja kaivosten välillä ovat 50-2000 kilometriä.
 
-Suurin osa Orvalin asukkaista on eurooppalaista alkuperää. Kaupungissa on sen strategisen merkityksen vuoksi sotilastukikohta, jota johtaa komentaja Bernheim.
+Kaupungissa on sen strategisen merkityksen vuoksi sotilastukikohta, jota johtaa komentaja Bernheim.
 
 ## Hahmot
 
@@ -43,117 +43,97 @@ Sen verran sääntöjä on kierretty, että liittouma on hankkinut teille "astro
 
 Palkkionne (valtion osan ja asumis- ym. kulujen jälkeen) on $2000 kuukaudessa. Liittouman protokollan mukaisesti menomatkan palkkio maksetaan etukäteen, ja matkan Orvaliin ollessa noin kaksi kuukautta teillä on käytettävissänne $4500, sisältäen $500 sääntöjenmukaiset säästönne. Edget kuten Rich vaikuttavat vain tähän $500 osuuteen alkuvaroistanne.
 
-### Lisävarusteet
+### Varusteet
 
-Liittouma on varmistanut teille pääsyn epätavallisen laajoille asemarkkinoille. Ohessa otteita valikoimasta; jos teillä on mielessä jotain erityistä, ottakaa yhteyttä. Mikäli seikkailu jatkuu, parempia varusteita on odotettavissa joka kategoriassa.
+Ohessa otteita liittouman markkinoiden valikoimasta; jos teillä on mielessä jotain erityistä, ottakaa yhteyttä.
 
-#### Suojavarusteet
+Suojavarusteet                          | Armor | Min Str | Paino | Hinta | Muuta
+:---------------------------------------|:-----:|:-------:|:-----:|------:|:-----------------------
+Synteettinen kuitupinnoite              | +2    | -       | -     | -     | Kuuluu perushaarniskaan
+Keraamisesti vahvistettu kuitupanssari  | +4    | d6      | 25    | $1000 | -
+Metallipanssari "Kaatopaikan erikoinen" | +7    | d10     | 80    | $1000 | Hindrance: Ugly
+Keraaminen kokovartalopanssari          | +6    | d8      | 40    | $2000 | -
+Kevyt komposiittipanssari               | +8    | d8      | 60    | $4000 | -
 
-Haarniskan kanssa ei voi käyttää muita suojavarusteita, kuin itse haarniskaan on kiinnitetty.
+Table: Haarniskan kanssa ei voi käyttää muita suojavarusteita, kuin itse haarniskaan on kiinnitetty.
 
-##### Vartaloa ja raajoja suojaavat varusteet
 
-Suojavaruste | Armor | Min Str | Paino | Hinta | Muuta
--------------|-------|---------|-------|-------|------
-Synteettinen kuitu"panssari" | +2 | - | - | - | Kuuluu perushaarniskaan
-Keraamisesti vahvistettu kuitupanssari | +4 | d6 | 25 | $1000 | -
-Metallipanssari "Kaatopaikan erikoinen" | +7 | d10 | 80 | $1000 | Hindrance: Ugly
-Keraaminen kokovartalopanssari | +6 | d8 | 40 | $2000 | -
-Kevyt komposiittipanssari | +8 | d8 | 60 | $4000 | -
+Kypärä                       | Armor | Paino | Hinta | Muuta
+:----------------------------|:-----:|:-----:|------:|:---------------------------------------------------
+Muovikypärä                  | +1    | -     | -     | Kuuluu perushaarniskaan
+Luodinkestävä muovikypärä    | +2    | -     | $100  | Ei markkinointipuheesta huolimatta suojaa luodeilta
+Kypärän kuitupäällyste       | +4    | 5     | $200  | -1 Notice, riisuttava
+Metallikypärä "Romukoppa"    | +6    | 15    | $200  | -2 Notice, -1 Shooting, riisuttava
+Anatominen komposiittikypärä | +8    | 10    | $600  | -
 
-##### Kypärät
+Table: Riisuttavat kypärät asetetaan tavallisen muovikypärän päälle ja ne voidaan riisua ilman että ilma karkaa puvusta.
 
-Riisuttavat kypärät asetetaan tavallisen muovikypärän päälle ja ne voidaan riisua ilman että ilma karkaa puvusta.
+Toimilaitteet          | Str Bonus | Hinta | Muuta
+:----------------------|:---------:|------:|:----------------------------------------------------
+Sähkölineaarimoottorit | +1        | $1000 | +1 Athletics
+Pneumatiikka           | +2        | $2000 | +1 Pace
+Hydrauliikka           | +3        | $3000 | Kantokyvyn ja aseiden käytön kannalta lisäksi Str +1
 
-Kypärä | Armor | Paino | Hinta | Muuta
--------|-------|-------|-------|------
-Muovikypärä | +1 | - | - | Kuuluu perushaarniskaan
-Luodinkestävä muovikypärä | +2 | - | $100 | Ei markkinointipuheesta huolimatta suojaa luodeilta
-Kypärän kuitupäällyste | +4 | 5 | $200 | -1 Notice, riisuttava
-Metallikypärä "Romukoppa" | +6 | 15 | $200 | -2 Notice, -1 Shooting, riisuttava
-Anatominen komposiittikypärä ja -naamio | +8 | 10 | $600 | -
+Table: Toimilaitteet liikuttavat haarniskan raajoja, toivottavasti samaan suuntaan kuin yrität liikuttaa omiasi. Str Bonus tarkoittaa Strength-noppatason nostoa: d4 + 1 = d6.
 
-#### Toimilaitteet
-
-Toimilaitteet liikuttavat haarniskan raajoja, toivottavasti samaan suuntaan kuin yrität liikuttaa omiasi. Str Bonus tarkoittaa Strength-noppatason nostoa: d4 + 1 = d6.
-
-Tyyppi | Str Bonus | Hinta | Muuta
--------|-----------|-------|------
-Sähkölineaarimoottorit | +1 | $1000  | +1 Athletics
-Pneumatiikka | +2 | $2000 | +1 Pace
-Hydrauliikka | +3 | $3000 | Kantokyvyn ja aseiden käytön kannalta lisäksi Str +1
-
-#### Muut varusteet
-
-Varuste | Hinta | Mitä?
---------|-------|------
-Pimeänäkölaitteet | $1000 | Valaistus vaikuttaa sinuun yhdellä "asteella" vähemmän (CRB s.102), esimerkiksi Dark on sinun näkökulmastasi Dim
+Muut varusteet      | Hinta | Mitä?
+:-------------------|------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pimeänäkölaitteet   | $1000 | Valaistus vaikuttaa sinuun yhdellä "asteella" vähemmän (CRB s.102), esimerkiksi Dark on sinun näkökulmastasi Dim
 Hormoniregulaattori | $1000 | +1 heittoihin, joilla yritetään poistaa Shaken tai Stunned
-Hyppymoottori | $2000 | Haarniskan selkään liitetty suihkumoottori mahdollistaa liitelyn avaruudessa, pehmeän laskeutumisen vaikka suoraan kiertoradalta sekä pitkät loikat planeetan pinnalla. Polttoainetta (lentopetroli) riittää noin kymmeneksi sekunniksi.
+Hyppymoottori       | $2000 | Haarniskan selkään liitetty suihkumoottori mahdollistaa liitelyn avaruudessa, pehmeän laskeutumisen vaikka suoraan kiertoradalta sekä pitkät loikat planeetan pinnalla. Polttoainetta (lentopetroli) riittää noin kymmeneksi sekunniksi.
 
 
-### Kybernetiikka
+Kybernetiikka                                                       | Hinta | Vaikutukset
+:-------------------------------------------------------------------|------:|:-------------------------------------------------------------------------------------------
+Muistimoduuli                                                       | $500  | +1 valitsemaasi muistiriippuvaiseen taitoon
+Suurentava optiikka, kiinalaisen ravintolan takahuoneessa asennettu | $500  | -1 Notice, mutta näet tarkasti huomattavasti kauemmas kuin normaalisti
+Titaanilla vahvistettu luusto                                       | $1000 | +1 Toughness
+Suurentava optiikka, terveyskeskuksessa asennettu                   | $1500 | +1 Notice, näet tarkasti huomattavasti kauemmas kuin normaalisti
+Aivokuorimodeemi                                                    | $2000 | +1 Hacking, kykenet ottamaan langattoman yhdeyden lähellä oleviin digitaalisiin laitteisiin
 
-Laite | Hinta | Vaikutukset
-------|-------|------------
-Muistimoduuli | $500 | +1 valitsemaasi muistiriippuvaiseen taitoon
-Suurentava optiikka, kiinalaisen ravintolan takahuoneessa asennettu | $500 | -1 Notice, mutta näet tarkasti huomattavasti kauemmas kuin normaalisti
-Titaanilla vahvistettu luusto | $1000 | +1 Toughness
-Suurentava optiikka, terveyskeskuksessa asennettu | $1500 | +1 Notice, näet tarkasti huomattavasti kauemmas kuin normaalisti
-Aivokuorimodeemi | $2000 | +1 Hacking, kykenet ottamaan langattoman yhdeyden lähellä oleviin digitaalisiin laitteisiin
 
-### Aseet
+Lähitaisteluaseet    | Vahinko    | Min Str | Paino | Hinta | Muuta
+:--------------------|:----------:|:-------:|:-----:|------:|:--------------------------------------------
+Puukko               | Str + d4   | d4      | 1     | $50   | +1 Survival
+Pneumaattinen nyrkki | Str + d8   | d4      | 4     | $200  | Kiinnitetään haarniskaan, aina käytettävissä
+Moottorisaha         | Str + 2d6  | d6      | 20    | $200  | Critical failure osuu käyttäjään
+Tosi iso leka        | Str + d10  | d8      | 10    | $200  | AP 1
+Moottorisaha, V8     | Str + 2d12 | d12     | 40    | $1000 | AP 3, critical failure osuu käyttäjään
 
-#### Lähitaisteluaseet
 
-Ase | Vahinko | Min Str | Paino | Hinta | Muuta
-----|---------|---------|-------|-------|------
-Puukko | Str + d4 | d4 | 1 | 50 | +1 Survival
-Pneumaattinen nyrkki | Str + d8 | d4 | 4 | 200 | Kiinnitetään haarniskaan, aina käytettävissä
-Moottorisaha | Str + 2d6 | d6 | 20 | 200 | Critical failure osuu käyttäjään
-Tosi iso leka | Str + d10 | d8 | 10 | 200 | AP 1
-Moottorisaha, V8 | Str + 2d12 | d12 | 40 | 1000 | AP 3, critical failure osuu käyttäjään
+Käsiaseet                             | Kantama    | Vahinko | AP | ROF | Lipaskoko | Min Str | Paino | Hinta | Muuta
+:-------------------------------------|-----------:|:-------:|:--:|:---:|----------:|:-------:|:-----:|------:|:-------------------------------
+Pumppuhaulikko Ithaca 37              | 12/24/48   | 1-3d6   | -  | 1   | 6         | d4      | 8     | $150  | -
+Glock 10mm pistooli                   | 15/30/60   | 2d6     | 2  | 1   | 15        | d6      | 3     | $200  | 
+AR-15 (5.56mm)                        | 24/48/96   | 2d8     | 2  | 1-3 | 30        | d4      | 8     | $400  | -
+Rynnäkkökivääri FN SCAR-XH (.338 LM)  | 30/60/120  | 2d8     | 3  | 1-3 | 30        | d6      | 10    | $600  | 3 laukauksen sarjat mahdollisia
+Barrett (.50)                         | 50/100/200 | 2d10    | 4  | 1   | 10        | d8      | 35    | $750  | Snapfire
+Pancor Jackhammer -automaattihaulikko | 12/25/48   | 1-3d6   | -  | 1-3 | 10        | d6      | 10    | $1000 | Täyttä lipasta voi käyttää jalkaväkimiinana (CRB s.79)
+M72 Gauss-kivääri (2mm EC)            | 50/100/200 | 2d8     | 5  | 1   | 200       | d6      | 8     | $1000 | -
+Pulssikivääri M41A (10mm caseless)    | 24/48/96   | 2d10    | 4  | 1-3 | 99        | d6      | 12    | $2000 | 3 laukauksen sarjat mahdollisia
 
-#### Käsiaseet
 
-Ase | Kantama | Vahinko | AP | ROF | Lipaskoko | Min Str | Paino | Hinta | Muuta
-----|---------|---------|----|-----|-----------|---------|-------|-------|------
-Pumppuhaulikko Ithaca 37 | 12/24/48 | 1-3d6 | - | 1 | 6 | d4 | 8 | 150 | -
-Glock 10mm pistooli | 15/30/60 | 2d6 | 2 | 1 | 15 | d6 | 3 | 200 | 
-AR-15 (5.56mm) | 24/48/96 | 2d8 | 2 | 1-3 | 30 | d4 | 8 | 400 | -
-Rynnäkkökivääri FN SCAR-XH (.338 LM) | 30/60/120 | 2d8 | 3 | 1-3 | 30 | d6 | 10 | 600 | 3 laukauksen sarjat mahdollisia
-Barrett (.50) | 50/100/200 | 2d10 | 4 | 1 | 10 | d8 | 35 | 750 | Snapfire
-Pancor Jackhammer -automaattihaulikko | 12/25/48 | 1-3d6 | - | 1-3 | 10 | d6 | 10 | 1000 | Täyttä lipasta voi käyttää jalkaväkimiinana (CRB s.79)
-M72 Gauss-kivääri (2mm EC) | 50/100/200 | 2d8 | 5 | 1 | 200 | d6 | 8 | 1000 | -
-Pulssikivääri M41A (10mm caseless) | 24/48/96 | 2d10 | 4 | 1-3 | 99 | d6 | 12 | 2000 | 3 laukauksen sarjat mahdollisia
+Raskaat aseet                             | Kantama    | Vahinko | AP   | ROF | Lipaskoko | Min Str | Paino | Hinta | Muuta
+:-----------------------------------------|-----------:|:-------:|:----:|:---:|----------:|:-------:|:-----:|------:|:--------
+Liekinheitin M2A1-2                       | Cone       | 3d6     | -    | 1   | 10        | d8      | 70    | $300  | -
+M249 konekivääri (5.56mm)                 | 30/60/120  | 2d8     | 2    | 2-4 | 100       | d8      | 12    | $750  | Snapfire
+M2 Browning (.50)                         | 50/100/200 | 2d10    | 4    | 2-3 | 200       | d12     | 84    | $1500 | Snapfire
+Denel NTW-20 Anti-materiel (20mm)         | 50/100/200 | 2d12    | 4    | 1   | 10        | d12     | 70    | $2000 | Snapfire
+Konetykki Rheinmetall Mk 20 RH-280 (20mm) | 50/100/200 | 100     | 2d12 | 2-4 | 4         | d12+1   | 100   | $5000 | Snapfire
 
-#### Raskaat aseet
 
-Huomioi myös ammusten hinta ja paino! Tässä ilmoitetut painot ja hinnat sisältävät yhden lippaan täynnä patruunoita.
-
-Ase | Kantama | Vahinko | AP | ROF | Lipaskoko | Min Str | Paino | Hinta | Muuta
-----|---------|---------|----|-----|-----------|---------|-------|-------|------
-Liekinheitin M2A1-2 | Cone | 3d6 | - | 1 | 10 | d8 | 70 | 300 | -
-M249 konekivääri (5.56mm) | 30/60/120 | 2d8 | 2 | 2-4 | 100 | d8 | 12 | 750 | Snapfire
-M2 Browning (.50) | 50/100/200 | 2d10 | 4 | 2-3 | 200 | d12 | 84 | 1500 | Snapfire
-Denel NTW-20 Anti-materiel (20mm) | 50/100/200 | 2d12 | 4 | 1 | 10 | d12 | 70 | 2000 | Snapfire
-Konetykki Rheinmetall Mk 20 RH-280 (20mm) | 50/100/200 | 100 | 2d12 | 2-4 | 4 | d12+1 | 100 | 5000 | Snapfire
-
-#### Patruunat
-
-Patruuna | Hinta | Paino
----------|-------|------
-Haulikko, susihauli | 30/50 | 3/50
-Haulikko, täyteinen | 40/50 | 3/50
-Pistooli 10mm | 20/50 | 2/50
-Kivääri 5.56mm | 20/50 | 2/50
-Kivääri .338 LM | 35/50 | 5/50
-Kivääri 2mm EC | 10/50 | 1/500
-Kivääri 10mm caseless | 1 | 1/50
-Kivääri .50 | 1 | 15/50
-Liekinheittimen napalmi, erillisessä pullossa | 20/10 | 50/10
-Tykki 20mm | 4 | 25/50
-
+Patruunat               | Hinta  | Paino
+:-----------------------|:------:|:----------:
+Haulikko, susihauli     | $30/50 | 3/50
+Haulikko, täyteinen     | $40/50 | 3/50
+Pistooli 10mm           | $20/50 | 2/50
+Kivääri 5.56mm          | $20/50 | 2/50
+Kivääri .338 LM         | $35/50 | 5/50
+Kivääri 2mm EC          | $10/50 | 1/500
+Kivääri 10mm caseless   | $1     | 1/50
+Kivääri .50             | $1     | 15/50
+Liekinheittimen napalmi | $20/10 | 30 + 20/10
+Tykki 20mm              | $4     | 25/50
 
 ## Aikajana
 

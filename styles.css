@@ -1,0 +1,21 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-image: radial-gradient(ellipse at bottom, #b41636, #2f39a8);
+    background-attachment: fixed;
+    color: #fa60ad;
+    text-shadow: 0 0 3px #0909df;
+    margin: 0 3%;
+}
+
+table {
+    border-spacing: 20px 0;
+    margin: 0 -20px 20px;
+    caption-side: bottom;
+}
+
+caption {
+    width: 100%;
+    text-align: left;
+    font-size: 80%;
+    margin: 5px 0 0 20px;
+}
