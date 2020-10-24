@@ -161,6 +161,6 @@ Tykki 20mm              | $4     | 25/50
 
 2094: Viestit vastaperustetusta Luyten b:n siirtokunnasta saavuttavat Maapallon
 
-2104: Orval perustetaan planeetalle TRAPPIST-1b
+2104: Orval perustetaan planeetalle TRAPPIST-1f
 
 2121: Karhukaisjoukkue Alfa lähtee kohti Orvalia ratkomaan tietoliikenneongelmaa
